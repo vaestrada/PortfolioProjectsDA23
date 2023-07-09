@@ -12,6 +12,10 @@ In this project, I cleaned and analyzed Nashville Housing Data. The dataset was 
 ├── nashville_housing_data.xlsx
 └── nashville_housing_queries.sql
 
+## Project Structure
+
+
+
 
 #### Requirements
 
