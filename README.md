@@ -26,15 +26,15 @@ To reproduce the data analysis, follow these steps:
 1. Import the provided Excel dataset (`nashville_housing_data.xlsx`) into your SQL database.
 2. Execute the SQL queries in the `nashville_housing_queries.sql` file.
 
-## COVID-19 Cases Analysis
+### COVID-19 Cases Analysis
 
 For this project, I worked with COVID-19 cases data. The dataset was provided in an Excel file format (`CovidVaccinations.xlsx`) and (`CovidDeaths.xlsx`). I performed SQL queries on this data to extract meaningful insights and trends. The SQL queries used can be found in the `covid19_cases_queries.sql` file.
 
-### Visualization
+#### Visualization
 
 To better understand and communicate the findings from the COVID-19 cases analysis, I utilized Tableau to create an interactive dashboard. The dashboard provides visual representations of the queried data and helps to identify patterns and trends in global COVID-19 cases. You can access the dashboard in the `covid19_cases_dashboard.twbx` file.
 
-### Project Structure
+#### Project Structure
 ```
 ├── CovidVaccinations.xlsx
 ├── CovidDeaths.xlsx
