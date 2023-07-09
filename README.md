@@ -35,10 +35,12 @@ For this project, I worked with COVID-19 cases data. The dataset was provided in
 To better understand and communicate the findings from the COVID-19 cases analysis, I utilized Tableau to create an interactive dashboard. The dashboard provides visual representations of the queried data and helps to identify patterns and trends in global COVID-19 cases. You can access the dashboard in the `covid19_cases_dashboard.twbx` file.
 
 ### Project Structure
+```
 ├── CovidVaccinations.xlsx
 ├── CovidDeaths.xlsx
 ├── covid19_cases_queries.sql
 └── covid19_cases_dashboard.twbx
+```
 
 #### Requirements
 
