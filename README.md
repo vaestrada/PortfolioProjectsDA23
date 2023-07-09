@@ -9,9 +9,10 @@ This repository contains a collection of my data analysis projects as a Data Ana
 In this project, I cleaned and analyzed Nashville Housing Data. The dataset was provided in an Excel file format (`nashville_housing_data.xlsx`). The SQL queries used for data cleaning and analysis are available in the `nashville_housing_queries.sql` file.
 
 ### Project Structure
+```bash
 ├── nashville_housing_data.xlsx
 └── nashville_housing_queries.sql
-
+```
 #### Requirements
 
 To replicate the analysis, you will need:
