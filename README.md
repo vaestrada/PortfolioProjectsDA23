@@ -5,7 +5,7 @@ This repository contains a collection of data analysis projects showcasing my sk
 ## Projects
 
 ## 1. Nashville Housing Data Analysis
-In this project, I cleaned and analyzed Nashville housing data using SQL. The dataset was provided in an XLSX file format, and I utilized SQL queries to extract meaningful insights from the data. The analysis involved exploring various aspects of the housing market, such as prices, locations, and trends. The results were then visualized using Tableau, allowing for easy interpretation and presentation of the findings.
+In this project, I cleaned and analyzed Nashville housing data using SQL. The dataset was provided in an XLSX file format, and I utilized SQL queries to extract meaningful insights from the data. The analysis involved exploring various aspects of the housing market, such as prices, locations, and trends.
 
 ## 2. COVID-19 Cases Analysis
 For this project, I worked with COVID-19 cases data, also in an XLSX file format. Using SQL, I formulated queries to extract relevant information and uncover patterns in the data. The queries provided valuable insights into the global impact of the pandemic, including infection rates, mortality rates, and regional trends. I transformed these query results into an interactive dashboard using Tableau, enabling a comprehensive visualization of the data.
