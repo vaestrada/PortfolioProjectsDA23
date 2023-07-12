@@ -15,6 +15,7 @@ In this project, I focused on analyzing a dataset of over 7,600 movies using Pyt
 
 Each project within this repository demonstrates my ability to leverage data analysis tools and techniques to extract insights and communicate findings effectively. The accompanying code and documentation provide detailed information on the methodologies employed and can serve as evidence of my skills and experience as a data analyst.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Nashville Housing Data Analysis
 
